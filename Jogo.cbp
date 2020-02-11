@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Jogo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Jogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Jogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Entidade.cpp" />
+		<Unit filename="Entidade.h" />
+		<Unit filename="Personagem.cpp" />
+		<Unit filename="Personagem.h" />
+		<Unit filename="Terreno.cpp" />
+		<Unit filename="Terreno.h" />
+		<Unit filename="includeFases/Fase.h" />
+		<Unit filename="includeFases/Floresta.h" />
+		<Unit filename="includeFases/Labirinto.h" />
+		<Unit filename="includeFases/Templo.h" />
+		<Unit filename="includeFuncionamento/Gerenciador_Grafico.h" />
+		<Unit filename="includeFuncionamento/Jogo.h" />
+		<Unit filename="includeFuncionamento/Mecanismo.h" />
+		<Unit filename="includeFuncionamento/Menu.h" />
+		<Unit filename="includeFundos/Background.h" />
+		<Unit filename="includeInimigos/Bomba.h" />
+		<Unit filename="includeInimigos/Inimigo.h" />
+		<Unit filename="includeInimigos/MechaBomba.h" />
+		<Unit filename="includeInimigos/Minotauro.h" />
+		<Unit filename="includeInimigos/Morcego.h" />
+		<Unit filename="includeInimigos/Sapo.h" />
+		<Unit filename="includeInimigos/TorradaZombie.h" />
+		<Unit filename="includeJogadores/Controle.h" />
+		<Unit filename="includeJogadores/Jogador.h" />
+		<Unit filename="includeJogadores/JogadorDois.h" />
+		<Unit filename="includeJogadores/JogadorUm.h" />
+		<Unit filename="includeListas/Lista.h" />
+		<Unit filename="includeListas/ListaEntidades.h" />
+		<Unit filename="includeObstaculos/Cogumelo.h" />
+		<Unit filename="includeObstaculos/Fogo.h" />
+		<Unit filename="includeObstaculos/Folha.h" />
+		<Unit filename="includeObstaculos/Obstaculo.h" />
+		<Unit filename="includeObstaculos/Tartaruga.h" />
+		<Unit filename="includeTerrenosFloresta/TerrenoFloresta.h" />
+		<Unit filename="includeTerrenosFloresta/TerrenoFloresta2.h" />
+		<Unit filename="includeTerrenosFloresta/TerrenoFloresta3.h" />
+		<Unit filename="includeTerrenosFloresta/TerrenoFloresta4.h" />
+		<Unit filename="includeTerrenosLabirinto/TerrenoLabirinto.h" />
+		<Unit filename="includeTerrenosLabirinto/TerrenoLabirinto2.h" />
+		<Unit filename="includeTerrenosLabirinto/TerrenoLabirinto3.h" />
+		<Unit filename="includeTerrenosLabirinto/TerrenoLabirinto4.h" />
+		<Unit filename="includeTerrenosTemplo/TerrenoTemplo.h" />
+		<Unit filename="includeTerrenosTemplo/TerrenoTemplo2.h" />
+		<Unit filename="includeTerrenosTemplo/TerrenoTemplo3.h" />
+		<Unit filename="includeTerrenosTemplo/TerrenoTemplo4.h" />
+		<Unit filename="srcFases/Fase.cpp" />
+		<Unit filename="srcFases/Floresta.cpp" />
+		<Unit filename="srcFases/Labirinto.cpp" />
+		<Unit filename="srcFases/Templo.cpp" />
+		<Unit filename="srcFuncionamento/Gerenciador_Grafico.cpp" />
+		<Unit filename="srcFuncionamento/Jogo.cpp" />
+		<Unit filename="srcFuncionamento/Mecanismo.cpp" />
+		<Unit filename="srcFuncionamento/Menu.cpp" />
+		<Unit filename="srcFuncionamento/main.cpp" />
+		<Unit filename="srcFundos/Background.cpp" />
+		<Unit filename="srcInimigos/Bomba.cpp" />
+		<Unit filename="srcInimigos/Inimigo.cpp" />
+		<Unit filename="srcInimigos/MechaBomba.cpp" />
+		<Unit filename="srcInimigos/Minotauro.cpp" />
+		<Unit filename="srcInimigos/Morcego.cpp" />
+		<Unit filename="srcInimigos/Sapo.cpp" />
+		<Unit filename="srcInimigos/TorradaZombie.cpp" />
+		<Unit filename="srcJogadores/Controle.cpp" />
+		<Unit filename="srcJogadores/Jogador.cpp" />
+		<Unit filename="srcJogadores/JogadorDois.cpp" />
+		<Unit filename="srcJogadores/JogadorUm.cpp" />
+		<Unit filename="srcListas/ListaEntidades.cpp" />
+		<Unit filename="srcObstaculos/Cogumelo.cpp" />
+		<Unit filename="srcObstaculos/Fogo.cpp" />
+		<Unit filename="srcObstaculos/Folha.cpp" />
+		<Unit filename="srcObstaculos/Obstaculo.cpp" />
+		<Unit filename="srcObstaculos/Tartaruga.cpp" />
+		<Unit filename="srcTerrenosFloresta/TerrenoFloresta.cpp" />
+		<Unit filename="srcTerrenosFloresta/TerrenoFloresta2.cpp" />
+		<Unit filename="srcTerrenosFloresta/TerrenoFloresta3.cpp" />
+		<Unit filename="srcTerrenosFloresta/TerrenoFloresta4.cpp" />
+		<Unit filename="srcTerrenosLabirinto/TerrenoLabirinto.cpp" />
+		<Unit filename="srcTerrenosLabirinto/TerrenoLabirinto2.cpp" />
+		<Unit filename="srcTerrenosLabirinto/TerrenoLabirinto3.cpp" />
+		<Unit filename="srcTerrenosLabirinto/TerrenoLabirinto4.cpp" />
+		<Unit filename="srcTerrenosTemplo/TerrenoTemplo.cpp" />
+		<Unit filename="srcTerrenosTemplo/TerrenoTemplo2.cpp" />
+		<Unit filename="srcTerrenosTemplo/TerrenoTemplo3.cpp" />
+		<Unit filename="srcTerrenosTemplo/TerrenoTemplo4.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

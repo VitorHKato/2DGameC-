@@ -1,0 +1,3548 @@
+# depslib dependency file v1.0
+1568116731 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\entidade.cpp
+	"Entidade.h"
+
+1568114438 c:\users\vitor\documents\técdeprogdp\jogo\jogo\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1567109513 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\gerenciador_grafico.cpp
+	"Gerenciador_Grafico.h"
+
+1567109513 c:\users\vitor\documents\técdeprogdp\jogo\jogo\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"ListaEntidades.h"
+
+1568315291 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogo.cpp
+	"Jogo.h"
+
+1567106443 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\main.cpp
+	"Jogo.h"
+
+1567347354 c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"Floresta.h"
+
+1567110679 c:\users\vitor\documents\técdeprogdp\jogo\jogo\menu.h
+
+1567106874 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\menu.cpp
+	"Menu.h"
+
+1567106856 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\personagem.cpp
+	"Personagem.h"
+
+1567106831 c:\users\vitor\documents\técdeprogdp\jogo\jogo\personagem.h
+	"Entidade.h"
+
+1567107002 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\inimigo.cpp
+	"Inimigo.h"
+
+1567106979 c:\users\vitor\documents\técdeprogdp\jogo\jogo\inimigo.h
+	"Personagem.h"
+
+1568113093 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogador.cpp
+	"Jogador.h"
+
+1567107110 c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogador.h
+	"Personagem.h"
+
+1567107304 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogadorum.cpp
+	"JogadorUm.h"
+
+1567107286 c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogadorum.h
+	"Jogador.h"
+
+1567107344 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogadordois.cpp
+	"JogadorDois.h"
+
+1567107343 c:\users\vitor\documents\técdeprogdp\jogo\jogo\jogadordois.h
+	"Jogador.h"
+
+1567108763 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\slimeverde.cpp
+	"SlimeVerde.h"
+
+1567108771 c:\users\vitor\documents\técdeprogdp\jogo\jogo\slimeverde.h
+	"Inimigo.h"
+
+1567108842 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\obstaculo.cpp
+	"Obstaculo.h"
+
+1567108824 c:\users\vitor\documents\técdeprogdp\jogo\jogo\obstaculo.h
+	"Entidade.h"
+
+1567109004 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\folha.cpp
+	"Folha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogo\jogo\folha.h
+	"Obstaculo.h"
+
+1567109096 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\slimeazul.cpp
+	"SlimeAzul.h"
+
+1567109095 c:\users\vitor\documents\técdeprogdp\jogo\jogo\slimeazul.h
+	"Obstaculo.h"
+
+1567109143 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\fogo.cpp
+	"Fogo.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogo\jogo\fogo.h
+	"Obstaculo.h"
+
+1567109199 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\aranha.cpp
+	"Aranha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogo\jogo\aranha.h
+	"Obstaculo.h"
+
+1568113697 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\listaentidades.cpp
+	"ListaEntidades.h"
+
+1567109431 c:\users\vitor\documents\técdeprogdp\jogo\jogo\listaentidades.h
+	"Entidade.h"
+	"Lista.h"
+	"SFML/Graphics.hpp"
+
+1567109697 c:\users\vitor\documents\técdeprogdp\jogo\jogo\lista.h
+	"Entidade.h"
+	<iostream>
+
+1567109756 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\fase.cpp
+	"Fase.h"
+
+1568315967 c:\users\vitor\documents\técdeprogdp\jogo\jogo\fase.h
+	<list>
+	"Entidade.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"ListaEntidades.h"
+	"Inimigo.h"
+	"Obstaculo.h"
+
+1567109820 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\floresta.cpp
+	"Floresta.h"
+
+1567110796 c:\users\vitor\documents\técdeprogdp\jogo\jogo\floresta.h
+	"Fase.h"
+
+1567109923 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\labirinto.cpp
+	"Labirinto.h"
+
+1567111501 c:\users\vitor\documents\técdeprogdp\jogo\jogo\labirinto.h
+	"Fase.h"
+
+1567109994 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\templo.cpp
+	"Templo.h"
+
+1567111489 c:\users\vitor\documents\técdeprogdp\jogo\jogo\templo.h
+	"Fase.h"
+
+1568117016 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\bomba.cpp
+	"Bomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogo\jogo\bomba.h
+	"Inimigo.h"
+
+1567110146 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\mechabomba.cpp
+	"MechaBomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogo\jogo\mechabomba.h
+	"Inimigo.h"
+
+1567110194 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\morcego.cpp
+	"Morcego.h"
+
+1567110176 c:\users\vitor\documents\técdeprogdp\jogo\jogo\morcego.h
+	"Inimigo.h"
+
+1567110269 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\torradazombie.cpp
+	"TorradaZombie.h"
+
+1567110228 c:\users\vitor\documents\técdeprogdp\jogo\jogo\torradazombie.h
+	"Inimigo.h"
+
+1567110302 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\sapo.cpp
+	"Sapo.h"
+
+1567110287 c:\users\vitor\documents\técdeprogdp\jogo\jogo\sapo.h
+	"Inimigo.h"
+
+1567111645 source:c:\users\vitor\documents\técdeprogdp\jogo\jogo\minotauro.cpp
+	"Minotauro.h"
+
+1567111676 c:\users\vitor\documents\técdeprogdp\jogo\jogo\minotauro.h
+	"Inimigo.h"
+
+1567109199 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\aranha.cpp
+	"Aranha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogoteste2\aranha.h
+	"Obstaculo.h"
+
+1567108824 c:\users\vitor\documents\técdeprogdp\jogoteste2\obstaculo.h
+	"Entidade.h"
+
+1568114438 c:\users\vitor\documents\técdeprogdp\jogoteste2\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1568117016 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\bomba.cpp
+	"Bomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogoteste2\bomba.h
+	"Inimigo.h"
+
+1567106979 c:\users\vitor\documents\técdeprogdp\jogoteste2\inimigo.h
+	"Personagem.h"
+
+1567106831 c:\users\vitor\documents\técdeprogdp\jogoteste2\personagem.h
+	"Entidade.h"
+
+1568116731 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\entidade.cpp
+	"Entidade.h"
+
+1568318210 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\fase.cpp
+	"Fase.h"
+
+1568318287 c:\users\vitor\documents\técdeprogdp\jogoteste2\fase.h
+	<list>
+	"Mecanismo.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"ListaEntidades.h"
+	"Inimigo.h"
+	"Obstaculo.h"
+
+1567107286 c:\users\vitor\documents\técdeprogdp\jogoteste2\jogadorum.h
+	"Jogador.h"
+
+1567107110 c:\users\vitor\documents\técdeprogdp\jogoteste2\jogador.h
+	"Personagem.h"
+
+1567107343 c:\users\vitor\documents\técdeprogdp\jogoteste2\jogadordois.h
+	"Jogador.h"
+
+1567109431 c:\users\vitor\documents\técdeprogdp\jogoteste2\listaentidades.h
+	"Entidade.h"
+	"Lista.h"
+	"SFML/Graphics.hpp"
+
+1567109697 c:\users\vitor\documents\técdeprogdp\jogoteste2\lista.h
+	"Entidade.h"
+	<iostream>
+
+1567109820 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\floresta.cpp
+	"Floresta.h"
+
+1568320349 c:\users\vitor\documents\técdeprogdp\jogoteste2\floresta.h
+	"Fase.h"
+
+1567109143 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\fogo.cpp
+	"Fogo.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogoteste2\fogo.h
+	"Obstaculo.h"
+
+1567109004 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\folha.cpp
+	"Folha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogoteste2\folha.h
+	"Obstaculo.h"
+
+1567109513 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\gerenciador_grafico.cpp
+	"Gerenciador_Grafico.h"
+
+1567109513 c:\users\vitor\documents\técdeprogdp\jogoteste2\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"ListaEntidades.h"
+
+1567107002 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\inimigo.cpp
+	"Inimigo.h"
+
+1568113093 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\jogador.cpp
+	"Jogador.h"
+
+1567107344 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\jogadordois.cpp
+	"JogadorDois.h"
+
+1567107304 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\jogadorum.cpp
+	"JogadorUm.h"
+
+1568315291 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\jogo.cpp
+	"Jogo.h"
+
+1567347354 c:\users\vitor\documents\técdeprogdp\jogoteste2\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"Floresta.h"
+
+1567109923 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\labirinto.cpp
+	"Labirinto.h"
+
+1567111501 c:\users\vitor\documents\técdeprogdp\jogoteste2\labirinto.h
+	"Fase.h"
+
+1568113697 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\listaentidades.cpp
+	"ListaEntidades.h"
+
+1567106443 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\main.cpp
+	"Jogo.h"
+
+1567110146 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\mechabomba.cpp
+	"MechaBomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogoteste2\mechabomba.h
+	"Inimigo.h"
+
+1567106874 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\menu.cpp
+	"Menu.h"
+
+1567110679 c:\users\vitor\documents\técdeprogdp\jogoteste2\menu.h
+
+1567111645 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\minotauro.cpp
+	"Minotauro.h"
+
+1567111676 c:\users\vitor\documents\técdeprogdp\jogoteste2\minotauro.h
+	"Inimigo.h"
+
+1567110194 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\morcego.cpp
+	"Morcego.h"
+
+1567110176 c:\users\vitor\documents\técdeprogdp\jogoteste2\morcego.h
+	"Inimigo.h"
+
+1567108842 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\obstaculo.cpp
+	"Obstaculo.h"
+
+1567106856 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\personagem.cpp
+	"Personagem.h"
+
+1567110302 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\sapo.cpp
+	"Sapo.h"
+
+1567110287 c:\users\vitor\documents\técdeprogdp\jogoteste2\sapo.h
+	"Inimigo.h"
+
+1567109096 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\slimeazul.cpp
+	"SlimeAzul.h"
+
+1567109095 c:\users\vitor\documents\técdeprogdp\jogoteste2\slimeazul.h
+	"Obstaculo.h"
+
+1567108763 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\slimeverde.cpp
+	"SlimeVerde.h"
+
+1567108771 c:\users\vitor\documents\técdeprogdp\jogoteste2\slimeverde.h
+	"Inimigo.h"
+
+1567109994 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\templo.cpp
+	"Templo.h"
+
+1567111489 c:\users\vitor\documents\técdeprogdp\jogoteste2\templo.h
+	"Fase.h"
+
+1567110269 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\torradazombie.cpp
+	"TorradaZombie.h"
+
+1567110228 c:\users\vitor\documents\técdeprogdp\jogoteste2\torradazombie.h
+	"Inimigo.h"
+
+1568319999 c:\users\vitor\documents\técdeprogdp\jogoteste2\mecanismo.h
+	"Entidade.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"Obstaculo.h"
+	<list>
+	"Inimigo.h"
+	"ListaEntidades.h"
+	"Terreno.h"
+
+1568320266 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\mecanismo.cpp
+	"Mecanismo.h"
+
+1568319315 c:\users\vitor\documents\técdeprogdp\jogoteste2\terreno.h
+	"Entidade.h"
+
+1568319323 source:c:\users\vitor\documents\técdeprogdp\jogoteste2\terreno.cpp
+	"Terreno.h"
+
+1567109199 source:c:\users\vitor\documents\técdeprogdp\jogov2\aranha.cpp
+	"Aranha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov2\aranha.h
+	"Obstaculo.h"
+
+1567108824 c:\users\vitor\documents\técdeprogdp\jogov2\obstaculo.h
+	"Entidade.h"
+
+1569530788 c:\users\vitor\documents\técdeprogdp\jogov2\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1568117016 source:c:\users\vitor\documents\técdeprogdp\jogov2\bomba.cpp
+	"Bomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov2\bomba.h
+	"Inimigo.h"
+
+1567106979 c:\users\vitor\documents\técdeprogdp\jogov2\inimigo.h
+	"Personagem.h"
+
+1567106831 c:\users\vitor\documents\técdeprogdp\jogov2\personagem.h
+	"Entidade.h"
+
+1568116731 source:c:\users\vitor\documents\técdeprogdp\jogov2\entidade.cpp
+	"Entidade.h"
+
+1568318210 source:c:\users\vitor\documents\técdeprogdp\jogov2\fase.cpp
+	"Fase.h"
+
+1568318287 c:\users\vitor\documents\técdeprogdp\jogov2\fase.h
+	<list>
+	"Mecanismo.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"ListaEntidades.h"
+	"Inimigo.h"
+	"Obstaculo.h"
+
+1568834844 c:\users\vitor\documents\técdeprogdp\jogov2\mecanismo.h
+	"Entidade.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"Obstaculo.h"
+	<list>
+	"Inimigo.h"
+	"ListaEntidades.h"
+	"Terreno.h"
+
+1567107286 c:\users\vitor\documents\técdeprogdp\jogov2\jogadorum.h
+	"Jogador.h"
+
+1567107110 c:\users\vitor\documents\técdeprogdp\jogov2\jogador.h
+	"Personagem.h"
+
+1567107343 c:\users\vitor\documents\técdeprogdp\jogov2\jogadordois.h
+	"Jogador.h"
+
+1567109431 c:\users\vitor\documents\técdeprogdp\jogov2\listaentidades.h
+	"Entidade.h"
+	"Lista.h"
+	"SFML/Graphics.hpp"
+
+1567109697 c:\users\vitor\documents\técdeprogdp\jogov2\lista.h
+	"Entidade.h"
+	<iostream>
+
+1568319315 c:\users\vitor\documents\técdeprogdp\jogov2\terreno.h
+	"Entidade.h"
+
+1569439996 source:c:\users\vitor\documents\técdeprogdp\jogov2\floresta.cpp
+	"Floresta.h"
+
+1568922078 c:\users\vitor\documents\técdeprogdp\jogov2\floresta.h
+	"Fase.h"
+	"MechaBomba.h"
+
+1567109143 source:c:\users\vitor\documents\técdeprogdp\jogov2\fogo.cpp
+	"Fogo.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov2\fogo.h
+	"Obstaculo.h"
+
+1567109004 source:c:\users\vitor\documents\técdeprogdp\jogov2\folha.cpp
+	"Folha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov2\folha.h
+	"Obstaculo.h"
+
+1569530530 source:c:\users\vitor\documents\técdeprogdp\jogov2\gerenciador_grafico.cpp
+	"Gerenciador_Grafico.h"
+
+1569530558 c:\users\vitor\documents\técdeprogdp\jogov2\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"ListaEntidades.h"
+
+1567107002 source:c:\users\vitor\documents\técdeprogdp\jogov2\inimigo.cpp
+	"Inimigo.h"
+
+1568113093 source:c:\users\vitor\documents\técdeprogdp\jogov2\jogador.cpp
+	"Jogador.h"
+
+1567107344 source:c:\users\vitor\documents\técdeprogdp\jogov2\jogadordois.cpp
+	"JogadorDois.h"
+
+1567107304 source:c:\users\vitor\documents\técdeprogdp\jogov2\jogadorum.cpp
+	"JogadorUm.h"
+
+1569440586 source:c:\users\vitor\documents\técdeprogdp\jogov2\jogo.cpp
+	"Jogo.h"
+
+1569440577 c:\users\vitor\documents\técdeprogdp\jogov2\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"Floresta.h"
+
+1567109923 source:c:\users\vitor\documents\técdeprogdp\jogov2\labirinto.cpp
+	"Labirinto.h"
+
+1567111501 c:\users\vitor\documents\técdeprogdp\jogov2\labirinto.h
+	"Fase.h"
+
+1568113697 source:c:\users\vitor\documents\técdeprogdp\jogov2\listaentidades.cpp
+	"ListaEntidades.h"
+
+1567106443 source:c:\users\vitor\documents\técdeprogdp\jogov2\main.cpp
+	"Jogo.h"
+
+1568921293 source:c:\users\vitor\documents\técdeprogdp\jogov2\mecanismo.cpp
+	"Mecanismo.h"
+
+1568922197 source:c:\users\vitor\documents\técdeprogdp\jogov2\mechabomba.cpp
+	"MechaBomba.h"
+
+1568922130 c:\users\vitor\documents\técdeprogdp\jogov2\mechabomba.h
+	"Inimigo.h"
+
+1567106874 source:c:\users\vitor\documents\técdeprogdp\jogov2\menu.cpp
+	"Menu.h"
+
+1567110679 c:\users\vitor\documents\técdeprogdp\jogov2\menu.h
+
+1567111645 source:c:\users\vitor\documents\técdeprogdp\jogov2\minotauro.cpp
+	"Minotauro.h"
+
+1567111676 c:\users\vitor\documents\técdeprogdp\jogov2\minotauro.h
+	"Inimigo.h"
+
+1567110194 source:c:\users\vitor\documents\técdeprogdp\jogov2\morcego.cpp
+	"Morcego.h"
+
+1567110176 c:\users\vitor\documents\técdeprogdp\jogov2\morcego.h
+	"Inimigo.h"
+
+1567108842 source:c:\users\vitor\documents\técdeprogdp\jogov2\obstaculo.cpp
+	"Obstaculo.h"
+
+1567106856 source:c:\users\vitor\documents\técdeprogdp\jogov2\personagem.cpp
+	"Personagem.h"
+
+1567110302 source:c:\users\vitor\documents\técdeprogdp\jogov2\sapo.cpp
+	"Sapo.h"
+
+1567110287 c:\users\vitor\documents\técdeprogdp\jogov2\sapo.h
+	"Inimigo.h"
+
+1567109096 source:c:\users\vitor\documents\técdeprogdp\jogov2\slimeazul.cpp
+	"SlimeAzul.h"
+
+1567109095 c:\users\vitor\documents\técdeprogdp\jogov2\slimeazul.h
+	"Obstaculo.h"
+
+1567108763 source:c:\users\vitor\documents\técdeprogdp\jogov2\slimeverde.cpp
+	"SlimeVerde.h"
+
+1567108771 c:\users\vitor\documents\técdeprogdp\jogov2\slimeverde.h
+	"Inimigo.h"
+
+1567109994 source:c:\users\vitor\documents\técdeprogdp\jogov2\templo.cpp
+	"Templo.h"
+
+1567111489 c:\users\vitor\documents\técdeprogdp\jogov2\templo.h
+	"Fase.h"
+
+1568319323 source:c:\users\vitor\documents\técdeprogdp\jogov2\terreno.cpp
+	"Terreno.h"
+
+1567110269 source:c:\users\vitor\documents\técdeprogdp\jogov2\torradazombie.cpp
+	"TorradaZombie.h"
+
+1567110228 c:\users\vitor\documents\técdeprogdp\jogov2\torradazombie.h
+	"Inimigo.h"
+
+1567109199 source:c:\users\vitor\documents\técdeprogdp\jogov3\aranha.cpp
+	"Aranha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov3\aranha.h
+	"Obstaculo.h"
+
+1567108824 c:\users\vitor\documents\técdeprogdp\jogov3\obstaculo.h
+	"Entidade.h"
+
+1572013821 c:\users\vitor\documents\técdeprogdp\jogov3\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1568117016 source:c:\users\vitor\documents\técdeprogdp\jogov3\bomba.cpp
+	"Bomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov3\bomba.h
+	"Inimigo.h"
+
+1567106979 c:\users\vitor\documents\técdeprogdp\jogov3\inimigo.h
+	"Personagem.h"
+
+1572013821 c:\users\vitor\documents\técdeprogdp\jogov3\personagem.h
+	"Entidade.h"
+
+1572013821 source:c:\users\vitor\documents\técdeprogdp\jogov3\entidade.cpp
+	"Entidade.h"
+
+1568318210 source:c:\users\vitor\documents\técdeprogdp\jogov3\fase.cpp
+	"Fase.h"
+
+1568318287 c:\users\vitor\documents\técdeprogdp\jogov3\fase.h
+	<list>
+	"Mecanismo.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"ListaEntidades.h"
+	"Inimigo.h"
+	"Obstaculo.h"
+
+1568834844 c:\users\vitor\documents\técdeprogdp\jogov3\mecanismo.h
+	"Entidade.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"Obstaculo.h"
+	<list>
+	"Inimigo.h"
+	"ListaEntidades.h"
+	"Terreno.h"
+
+1567107286 c:\users\vitor\documents\técdeprogdp\jogov3\jogadorum.h
+	"Jogador.h"
+
+1567107110 c:\users\vitor\documents\técdeprogdp\jogov3\jogador.h
+	"Personagem.h"
+
+1567107343 c:\users\vitor\documents\técdeprogdp\jogov3\jogadordois.h
+	"Jogador.h"
+
+1567109431 c:\users\vitor\documents\técdeprogdp\jogov3\listaentidades.h
+	"Entidade.h"
+	"Lista.h"
+	"SFML/Graphics.hpp"
+
+1567109697 c:\users\vitor\documents\técdeprogdp\jogov3\lista.h
+	"Entidade.h"
+	<iostream>
+
+1568319315 c:\users\vitor\documents\técdeprogdp\jogov3\terreno.h
+	"Entidade.h"
+
+1569439996 source:c:\users\vitor\documents\técdeprogdp\jogov3\floresta.cpp
+	"Floresta.h"
+
+1568922078 c:\users\vitor\documents\técdeprogdp\jogov3\floresta.h
+	"Fase.h"
+	"MechaBomba.h"
+
+1568922130 c:\users\vitor\documents\técdeprogdp\jogov3\mechabomba.h
+	"Inimigo.h"
+
+1567109143 source:c:\users\vitor\documents\técdeprogdp\jogov3\fogo.cpp
+	"Fogo.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov3\fogo.h
+	"Obstaculo.h"
+
+1567109004 source:c:\users\vitor\documents\técdeprogdp\jogov3\folha.cpp
+	"Folha.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov3\folha.h
+	"Obstaculo.h"
+
+1569530530 source:c:\users\vitor\documents\técdeprogdp\jogov3\gerenciador_grafico.cpp
+	"Gerenciador_Grafico.h"
+
+1569530558 c:\users\vitor\documents\técdeprogdp\jogov3\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"ListaEntidades.h"
+
+1567107002 source:c:\users\vitor\documents\técdeprogdp\jogov3\inimigo.cpp
+	"Inimigo.h"
+
+1568113093 source:c:\users\vitor\documents\técdeprogdp\jogov3\jogador.cpp
+	"Jogador.h"
+
+1567107344 source:c:\users\vitor\documents\técdeprogdp\jogov3\jogadordois.cpp
+	"JogadorDois.h"
+
+1567107304 source:c:\users\vitor\documents\técdeprogdp\jogov3\jogadorum.cpp
+	"JogadorUm.h"
+
+1569440586 source:c:\users\vitor\documents\técdeprogdp\jogov3\jogo.cpp
+	"Jogo.h"
+
+1569440577 c:\users\vitor\documents\técdeprogdp\jogov3\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"JogadorUm.h"
+	"JogadorDois.h"
+	"Floresta.h"
+
+1567109923 source:c:\users\vitor\documents\técdeprogdp\jogov3\labirinto.cpp
+	"Labirinto.h"
+
+1567111501 c:\users\vitor\documents\técdeprogdp\jogov3\labirinto.h
+	"Fase.h"
+
+1568113697 source:c:\users\vitor\documents\técdeprogdp\jogov3\listaentidades.cpp
+	"ListaEntidades.h"
+
+1567106443 source:c:\users\vitor\documents\técdeprogdp\jogov3\main.cpp
+	"Jogo.h"
+
+1568921293 source:c:\users\vitor\documents\técdeprogdp\jogov3\mecanismo.cpp
+	"Mecanismo.h"
+
+1568922197 source:c:\users\vitor\documents\técdeprogdp\jogov3\mechabomba.cpp
+	"MechaBomba.h"
+
+1567106874 source:c:\users\vitor\documents\técdeprogdp\jogov3\menu.cpp
+	"Menu.h"
+
+1567110679 c:\users\vitor\documents\técdeprogdp\jogov3\menu.h
+
+1567111645 source:c:\users\vitor\documents\técdeprogdp\jogov3\minotauro.cpp
+	"Minotauro.h"
+
+1567111676 c:\users\vitor\documents\técdeprogdp\jogov3\minotauro.h
+	"Inimigo.h"
+
+1567110194 source:c:\users\vitor\documents\técdeprogdp\jogov3\morcego.cpp
+	"Morcego.h"
+
+1567110176 c:\users\vitor\documents\técdeprogdp\jogov3\morcego.h
+	"Inimigo.h"
+
+1567108842 source:c:\users\vitor\documents\técdeprogdp\jogov3\obstaculo.cpp
+	"Obstaculo.h"
+
+1572013821 source:c:\users\vitor\documents\técdeprogdp\jogov3\personagem.cpp
+	"Personagem.h"
+
+1567110302 source:c:\users\vitor\documents\técdeprogdp\jogov3\sapo.cpp
+	"Sapo.h"
+
+1567110287 c:\users\vitor\documents\técdeprogdp\jogov3\sapo.h
+	"Inimigo.h"
+
+1567109096 source:c:\users\vitor\documents\técdeprogdp\jogov3\slimeazul.cpp
+	"SlimeAzul.h"
+
+1567109095 c:\users\vitor\documents\técdeprogdp\jogov3\slimeazul.h
+	"Obstaculo.h"
+
+1567108763 source:c:\users\vitor\documents\técdeprogdp\jogov3\slimeverde.cpp
+	"SlimeVerde.h"
+
+1567108771 c:\users\vitor\documents\técdeprogdp\jogov3\slimeverde.h
+	"Inimigo.h"
+
+1567109994 source:c:\users\vitor\documents\técdeprogdp\jogov3\templo.cpp
+	"Templo.h"
+
+1567111489 c:\users\vitor\documents\técdeprogdp\jogov3\templo.h
+	"Fase.h"
+
+1568319323 source:c:\users\vitor\documents\técdeprogdp\jogov3\terreno.cpp
+	"Terreno.h"
+
+1567110269 source:c:\users\vitor\documents\técdeprogdp\jogov3\torradazombie.cpp
+	"TorradaZombie.h"
+
+1567110228 c:\users\vitor\documents\técdeprogdp\jogov3\torradazombie.h
+	"Inimigo.h"
+
+1571965180 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1571965198 c:\users\vitor\documents\técdeprogdp\jogov3\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+
+1572006447 c:\users\vitor\documents\técdeprogdp\jogov3\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+
+1572013929 c:\users\vitor\documents\técdeprogdp\jogov3\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1572013865 c:\users\vitor\documents\técdeprogdp\jogov3\includejogadores\jogador.h
+	"../Personagem.h"
+
+1572013929 c:\users\vitor\documents\técdeprogdp\jogov3\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1571951482 c:\users\vitor\documents\técdeprogdp\jogov3\includeobstaculos\obstaculo.h
+	"../Entidade.h"
+
+1570308293 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572005865 c:\users\vitor\documents\técdeprogdp\jogov3\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572005846 c:\users\vitor\documents\técdeprogdp\jogov3\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1571965427 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1571965427 c:\users\vitor\documents\técdeprogdp\jogov3\includefases\labirinto.h
+	"Fase.h"
+
+1571965452 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1571965442 c:\users\vitor\documents\técdeprogdp\jogov3\includefases\templo.h
+	"Fase.h"
+
+1571951439 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1571965470 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1571965334 c:\users\vitor\documents\técdeprogdp\jogov3\includefases\floresta.h
+	"../includeFases/Fase.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeJogadores/JogadorUm.h"
+
+1572006458 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1571841852 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1571841852 c:\users\vitor\documents\técdeprogdp\jogov3\includefuncionamento\menu.h
+
+1570308422 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\aranha.cpp
+	"../includeInimigos/Aranha.h"
+
+1570308435 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\aranha.h
+	"../includeObstaculos/Obstaculo.h"
+
+1570308441 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\bomba.h
+	"Inimigo.h"
+
+1570308448 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1571944510 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1570308464 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1567110176 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\morcego.h
+	"Inimigo.h"
+
+1570308471 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1567111676 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\minotauro.h
+	"Inimigo.h"
+
+1570308478 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1567110287 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\sapo.h
+	"Inimigo.h"
+
+1570308485 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\slimeverde.cpp
+	"../includeInimigos/SlimeVerde.h"
+
+1567108771 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\slimeverde.h
+	"Inimigo.h"
+
+1570308493 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1567110228 c:\users\vitor\documents\técdeprogdp\jogov3\includeinimigos\torradazombie.h
+	"Inimigo.h"
+
+1572006028 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1572013929 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1572013929 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572007941 source:c:\users\vitor\documents\técdeprogdp\jogov3\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1571951636 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov3\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1571951637 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov3\includeobstaculos\folha.h
+	"Obstaculo.h"
+
+1571951492 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1571951555 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcobstaculos\slimeazul.cpp
+	"../includeObstaculos/SlimeAzul.h"
+
+1571951555 c:\users\vitor\documents\técdeprogdp\jogov3\includeobstaculos\slimeazul.h
+	"Obstaculo.h"
+
+1572013379 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1572013373 c:\users\vitor\documents\técdeprogdp\jogov3\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+
+1572013425 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1572013079 c:\users\vitor\documents\técdeprogdp\jogov3\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1572013691 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1572013425 c:\users\vitor\documents\técdeprogdp\jogov3\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1571951637 source:c:\users\vitor\documents\técdeprogdp\jogov3\srcobstaculos\aranha.cpp
+	"../includeObstaculos/Aranha.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov3\includeobstaculos\aranha.h
+	"../includeObstaculos/Obstaculo.h"
+
+1572610601 source:c:\users\vitor\documents\técdeprogdp\jogov4\entidade.cpp
+	"Entidade.h"
+
+1572610960 c:\users\vitor\documents\técdeprogdp\jogov4\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1572639693 source:c:\users\vitor\documents\técdeprogdp\jogov4\personagem.cpp
+	"Personagem.h"
+
+1572639653 c:\users\vitor\documents\técdeprogdp\jogov4\personagem.h
+	"Entidade.h"
+
+1572618992 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1572618992 c:\users\vitor\documents\técdeprogdp\jogov4\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../Terreno.h"
+
+1572608598 c:\users\vitor\documents\técdeprogdp\jogov4\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+
+1572612578 c:\users\vitor\documents\técdeprogdp\jogov4\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1572612028 c:\users\vitor\documents\técdeprogdp\jogov4\includejogadores\jogador.h
+	"../Personagem.h"
+
+1572611367 c:\users\vitor\documents\técdeprogdp\jogov4\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1571951482 c:\users\vitor\documents\técdeprogdp\jogov4\includeobstaculos\obstaculo.h
+	"../Entidade.h"
+
+1570308293 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov4\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov4\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1572546011 c:\users\vitor\documents\técdeprogdp\jogov4\terreno.h
+	"Entidade.h"
+
+1572006458 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1572634840 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1572619098 c:\users\vitor\documents\técdeprogdp\jogov4\includefases\floresta.h
+	"../includeFases/Fase.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeJogadores/JogadorUm.h"
+
+1571965427 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1571965427 c:\users\vitor\documents\técdeprogdp\jogov4\includefases\labirinto.h
+	"Fase.h"
+
+1571965452 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1571965442 c:\users\vitor\documents\técdeprogdp\jogov4\includefases\templo.h
+	"Fase.h"
+
+1572609376 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1572609396 c:\users\vitor\documents\técdeprogdp\jogov4\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogov4\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1572618242 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1572013079 c:\users\vitor\documents\técdeprogdp\jogov4\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1572617272 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1571841852 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1571841852 c:\users\vitor\documents\técdeprogdp\jogov4\includefuncionamento\menu.h
+
+1570308441 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1567111612 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\bomba.h
+	"Inimigo.h"
+
+1570308448 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1572616402 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1570308471 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1567111676 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\minotauro.h
+	"Inimigo.h"
+
+1570308464 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1567110176 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\morcego.h
+	"Inimigo.h"
+
+1570308478 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1567110287 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\sapo.h
+	"Inimigo.h"
+
+1570308485 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\slimeverde.cpp
+	"../includeInimigos/SlimeVerde.h"
+
+1567108771 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\slimeverde.h
+	"Inimigo.h"
+
+1570308493 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1567110228 c:\users\vitor\documents\técdeprogdp\jogov4\includeinimigos\torradazombie.h
+	"Inimigo.h"
+
+1572617162 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1572612524 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1572612774 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1572612774 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogov4\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1571951637 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcobstaculos\aranha.cpp
+	"../includeObstaculos/Aranha.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov4\includeobstaculos\aranha.h
+	"../includeObstaculos/Obstaculo.h"
+
+1571951636 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov4\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1571951637 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov4\includeobstaculos\folha.h
+	"Obstaculo.h"
+
+1571951492 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1571951555 source:c:\users\vitor\documents\técdeprogdp\jogov4\srcobstaculos\slimeazul.cpp
+	"../includeObstaculos/SlimeAzul.h"
+
+1571951555 c:\users\vitor\documents\técdeprogdp\jogov4\includeobstaculos\slimeazul.h
+	"Obstaculo.h"
+
+1572607413 source:c:\users\vitor\documents\técdeprogdp\jogov4\terreno.cpp
+	"Terreno.h"
+
+1572610601 source:c:\users\vitor\documents\técdeprogdp\jogov5\entidade.cpp
+	"Entidade.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogov5\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1573041858 source:c:\users\vitor\documents\técdeprogdp\jogov5\personagem.cpp
+	"Personagem.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogov5\personagem.h
+	"Entidade.h"
+
+1573131862 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1573131862 c:\users\vitor\documents\técdeprogdp\jogov5\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../TerrenoFloresta.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeObstaculos/Folha.h"
+
+1573047274 c:\users\vitor\documents\técdeprogdp\jogov5\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+
+1572612578 c:\users\vitor\documents\técdeprogdp\jogov5\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1572612028 c:\users\vitor\documents\técdeprogdp\jogov5\includejogadores\jogador.h
+	"../Personagem.h"
+
+1572611367 c:\users\vitor\documents\técdeprogdp\jogov5\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573134079 c:\users\vitor\documents\técdeprogdp\jogov5\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+
+1573125899 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov5\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov5\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1572876384 c:\users\vitor\documents\técdeprogdp\jogov5\terreno.h
+	"Entidade.h"
+
+1572006458 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573132007 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1573131297 c:\users\vitor\documents\técdeprogdp\jogov5\includefases\floresta.h
+	"../includeFases/Fase.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeJogadores/JogadorUm.h"
+
+1571965427 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1571965427 c:\users\vitor\documents\técdeprogdp\jogov5\includefases\labirinto.h
+	"Fase.h"
+
+1571965452 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1571965442 c:\users\vitor\documents\técdeprogdp\jogov5\includefases\templo.h
+	"Fase.h"
+
+1572964614 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1572964536 c:\users\vitor\documents\técdeprogdp\jogov5\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogov5\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573047274 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1572013079 c:\users\vitor\documents\técdeprogdp\jogov5\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1573134260 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1571841852 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1571841852 c:\users\vitor\documents\técdeprogdp\jogov5\includefuncionamento\menu.h
+
+1573126813 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1573126141 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573125900 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1572879149 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1570308471 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1567111676 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\minotauro.h
+	"Inimigo.h"
+
+1570308464 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1567110176 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\morcego.h
+	"Inimigo.h"
+
+1573038331 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1572972516 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1570308485 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\slimeverde.cpp
+	"../includeInimigos/SlimeVerde.h"
+
+1567108771 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\slimeverde.h
+	"Inimigo.h"
+
+1570308493 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1567110228 c:\users\vitor\documents\técdeprogdp\jogov5\includeinimigos\torradazombie.h
+	"Inimigo.h"
+
+1572617162 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1573150434 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1572612774 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573149995 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogov5\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1571951637 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcobstaculos\aranha.cpp
+	"../includeObstaculos/Aranha.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov5\includeobstaculos\aranha.h
+	"../includeObstaculos/Obstaculo.h"
+
+1571951636 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1571951637 c:\users\vitor\documents\técdeprogdp\jogov5\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573138348 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573132263 c:\users\vitor\documents\técdeprogdp\jogov5\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573134087 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1571951555 source:c:\users\vitor\documents\técdeprogdp\jogov5\srcobstaculos\slimeazul.cpp
+	"../includeObstaculos/SlimeAzul.h"
+
+1571951555 c:\users\vitor\documents\técdeprogdp\jogov5\includeobstaculos\slimeazul.h
+	"Obstaculo.h"
+
+1572876384 source:c:\users\vitor\documents\técdeprogdp\jogov5\terreno.cpp
+	"Terreno.h"
+
+1573129701 source:c:\users\vitor\documents\técdeprogdp\jogov5\terrenofloresta.cpp
+	"TerrenoFloresta.h"
+
+1573129701 c:\users\vitor\documents\técdeprogdp\jogov5\terrenofloresta.h
+	"Terreno.h"
+
+1573351860 source:c:\users\vitor\documents\técdeprogdp\jogov6\entidade.cpp
+	"Entidade.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogov6\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1573336699 source:c:\users\vitor\documents\técdeprogdp\jogov6\personagem.cpp
+	"Personagem.h"
+
+1573337561 c:\users\vitor\documents\técdeprogdp\jogov6\personagem.h
+	"Entidade.h"
+
+1573339831 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1573650991 c:\users\vitor\documents\técdeprogdp\jogov6\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeInimigos/Morcego.h"
+	"../includeObstaculos/Folha.h"
+	"../includeObstaculos/Fogo.h"
+	"../includeObstaculos/SlimeAzul.h"
+	"../includeObstaculos/Aranha.h"
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573481751 c:\users\vitor\documents\técdeprogdp\jogov6\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov6\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1573337098 c:\users\vitor\documents\técdeprogdp\jogov6\includejogadores\jogador.h
+	"../Personagem.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov6\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573483242 c:\users\vitor\documents\técdeprogdp\jogov6\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573481740 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov6\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov6\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov6\terreno.h
+	"Entidade.h"
+
+1573481568 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta.h
+	"Terreno.h"
+
+1573481495 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573567548 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573483340 c:\users\vitor\documents\técdeprogdp\jogov6\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573671190 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1573353170 c:\users\vitor\documents\técdeprogdp\jogov6\includefases\floresta.h
+	"../includeFases/Fase.h"
+
+1571965427 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1571965427 c:\users\vitor\documents\técdeprogdp\jogov6\includefases\labirinto.h
+	"Fase.h"
+
+1571965452 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1571965442 c:\users\vitor\documents\técdeprogdp\jogov6\includefases\templo.h
+	"Fase.h"
+
+1573352696 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1572964536 c:\users\vitor\documents\técdeprogdp\jogov6\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogov6\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573355274 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1572013079 c:\users\vitor\documents\técdeprogdp\jogov6\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1573337847 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1571841852 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1571841852 c:\users\vitor\documents\técdeprogdp\jogov6\includefuncionamento\menu.h
+
+1573567576 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1573481740 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1573481568 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1573481740 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1573481740 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\minotauro.h
+	"Inimigo.h"
+
+1573608830 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1573569520 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\morcego.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573568939 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1573481653 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\slimeverde.cpp
+	"../includeInimigos/SlimeVerde.h"
+
+1573481653 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\slimeverde.h
+	"Inimigo.h"
+
+1573481679 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1573481672 c:\users\vitor\documents\técdeprogdp\jogov6\includeinimigos\torradazombie.h
+	"Inimigo.h"
+
+1573336919 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1573172059 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1573337394 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573337368 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogov6\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1573652546 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcobstaculos\aranha.cpp
+	"../includeObstaculos/Aranha.h"
+
+1573652136 c:\users\vitor\documents\técdeprogdp\jogov6\includeobstaculos\aranha.h
+	"../includeObstaculos/Obstaculo.h"
+
+1573649810 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1573649192 c:\users\vitor\documents\técdeprogdp\jogov6\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573483596 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573483243 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1573650348 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcobstaculos\slimeazul.cpp
+	"../includeObstaculos/SlimeAzul.h"
+
+1573650030 c:\users\vitor\documents\técdeprogdp\jogov6\includeobstaculos\slimeazul.h
+	"Obstaculo.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov6\terreno.cpp
+	"Terreno.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta.cpp
+	"TerrenoFloresta.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta2.cpp
+	"TerrenoFloresta2.h"
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta2.h
+	"Terreno.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta3.cpp
+	"TerrenoFloresta3.h"
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta3.h
+	"Terreno.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta4.cpp
+	"TerrenoFloresta4.h"
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov6\terrenofloresta4.h
+	"Terreno.h"
+
+1573355756 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcterrenosfloresta\terrenofloresta4.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573355772 c:\users\vitor\documents\técdeprogdp\jogov6\includeterrenosfloresta\terrenofloresta4.h
+	"../Terreno.h"
+
+1573355713 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcterrenosfloresta\terrenofloresta.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+
+1573355777 c:\users\vitor\documents\técdeprogdp\jogov6\includeterrenosfloresta\terrenofloresta.h
+	"../Terreno.h"
+
+1573355736 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcterrenosfloresta\terrenofloresta2.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+
+1573355780 c:\users\vitor\documents\técdeprogdp\jogov6\includeterrenosfloresta\terrenofloresta2.h
+	"../Terreno.h"
+
+1573355747 source:c:\users\vitor\documents\técdeprogdp\jogov6\srcterrenosfloresta\terrenofloresta3.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+
+1573355788 c:\users\vitor\documents\técdeprogdp\jogov6\includeterrenosfloresta\terrenofloresta3.h
+	"../Terreno.h"
+
+1573351860 source:c:\users\vitor\documents\técdeprogdp\jogov7\entidade.cpp
+	"Entidade.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogov7\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1573336699 source:c:\users\vitor\documents\técdeprogdp\jogov7\personagem.cpp
+	"Personagem.h"
+
+1573337561 c:\users\vitor\documents\técdeprogdp\jogov7\personagem.h
+	"Entidade.h"
+
+1573339831 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1573757428 c:\users\vitor\documents\técdeprogdp\jogov7\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeInimigos/Morcego.h"
+	"../includeInimigos/TorradaZombie.h"
+	"../includeObstaculos/Folha.h"
+	"../includeObstaculos/Fogo.h"
+	"../includeObstaculos/Cogumelo.h"
+	"../includeObstaculos/Tartaruga.h"
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1573481751 c:\users\vitor\documents\técdeprogdp\jogov7\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov7\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1573337098 c:\users\vitor\documents\técdeprogdp\jogov7\includejogadores\jogador.h
+	"../Personagem.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov7\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573483242 c:\users\vitor\documents\técdeprogdp\jogov7\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573481740 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov7\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov7\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov7\terreno.h
+	"Entidade.h"
+
+1573481568 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573355777 c:\users\vitor\documents\técdeprogdp\jogov7\includeterrenosfloresta\terrenofloresta.h
+	"../Terreno.h"
+
+1573355780 c:\users\vitor\documents\técdeprogdp\jogov7\includeterrenosfloresta\terrenofloresta2.h
+	"../Terreno.h"
+
+1573481495 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573567548 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573569520 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\morcego.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573483340 c:\users\vitor\documents\técdeprogdp\jogov7\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573649192 c:\users\vitor\documents\técdeprogdp\jogov7\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573650030 c:\users\vitor\documents\técdeprogdp\jogov7\includeobstaculos\slimeazul.h
+	"Obstaculo.h"
+
+1573652136 c:\users\vitor\documents\técdeprogdp\jogov7\includeobstaculos\aranha.h
+	"../includeObstaculos/Obstaculo.h"
+
+1573355788 c:\users\vitor\documents\técdeprogdp\jogov7\includeterrenosfloresta\terrenofloresta3.h
+	"../Terreno.h"
+
+1573355772 c:\users\vitor\documents\técdeprogdp\jogov7\includeterrenosfloresta\terrenofloresta4.h
+	"../Terreno.h"
+
+1573757409 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1573741051 c:\users\vitor\documents\técdeprogdp\jogov7\includefases\floresta.h
+	"../includeFases/Fase.h"
+
+1571965427 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1571965427 c:\users\vitor\documents\técdeprogdp\jogov7\includefases\labirinto.h
+	"Fase.h"
+
+1571965452 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1571965442 c:\users\vitor\documents\técdeprogdp\jogov7\includefases\templo.h
+	"Fase.h"
+
+1573740940 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1573739817 c:\users\vitor\documents\técdeprogdp\jogov7\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogov7\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573740367 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1572013079 c:\users\vitor\documents\técdeprogdp\jogov7\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1573337847 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1571841852 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1571841852 c:\users\vitor\documents\técdeprogdp\jogov7\includefuncionamento\menu.h
+
+1573757381 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1573481740 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1573754744 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1573481740 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1573481740 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\minotauro.h
+	"Inimigo.h"
+
+1573608830 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1573757381 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1573481653 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\slimeverde.cpp
+	"../includeInimigos/SlimeVerde.h"
+
+1573481653 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\slimeverde.h
+	"Inimigo.h"
+
+1573757381 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1573739219 c:\users\vitor\documents\técdeprogdp\jogov7\includeinimigos\torradazombie.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573752681 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1573172059 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1573337394 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573337368 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogov7\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1573652546 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcobstaculos\aranha.cpp
+	"../includeObstaculos/Aranha.h"
+
+1573649810 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1573483596 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573483243 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1573355713 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcterrenosfloresta\terrenofloresta.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+
+1573355736 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcterrenosfloresta\terrenofloresta2.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+
+1573355747 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcterrenosfloresta\terrenofloresta3.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+
+1573355756 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcterrenosfloresta\terrenofloresta4.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov7\terreno.cpp
+	"Terreno.h"
+
+1573672711 c:\users\vitor\documents\técdeprogdp\jogov7\includeobstaculos\cogumelo.h
+	"Obstaculo.h"
+
+1573673422 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcobstaculos\cogumelo.cpp
+	"../includeObstaculos/Cogumelo.h"
+
+1573675570 source:c:\users\vitor\documents\técdeprogdp\jogov7\srcobstaculos\tartaruga.cpp
+	"../includeObstaculos/Tartaruga.h"
+
+1573674183 c:\users\vitor\documents\técdeprogdp\jogov7\includeobstaculos\tartaruga.h
+	"Obstaculo.h"
+
+1573351860 source:c:\users\vitor\documents\técdeprogdp\jogov8\entidade.cpp
+	"Entidade.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogov8\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1573336699 source:c:\users\vitor\documents\técdeprogdp\jogov8\personagem.cpp
+	"Personagem.h"
+
+1573337561 c:\users\vitor\documents\técdeprogdp\jogov8\personagem.h
+	"Entidade.h"
+
+1573339831 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1573782132 c:\users\vitor\documents\técdeprogdp\jogov8\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeInimigos/Morcego.h"
+	"../includeInimigos/TorradaZombie.h"
+	"../includeObstaculos/Folha.h"
+	"../includeObstaculos/Fogo.h"
+	"../includeObstaculos/Cogumelo.h"
+	"../includeObstaculos/Tartaruga.h"
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1573481751 c:\users\vitor\documents\técdeprogdp\jogov8\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov8\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1573337098 c:\users\vitor\documents\técdeprogdp\jogov8\includejogadores\jogador.h
+	"../Personagem.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov8\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573483242 c:\users\vitor\documents\técdeprogdp\jogov8\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573481740 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov8\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov8\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov8\terreno.h
+	"Entidade.h"
+
+1573481568 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573355777 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenosfloresta\terrenofloresta.h
+	"../Terreno.h"
+
+1573355780 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenosfloresta\terrenofloresta2.h
+	"../Terreno.h"
+
+1573481495 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573567548 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573569520 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\morcego.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573739219 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\torradazombie.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573483340 c:\users\vitor\documents\técdeprogdp\jogov8\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573649192 c:\users\vitor\documents\técdeprogdp\jogov8\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573672711 c:\users\vitor\documents\técdeprogdp\jogov8\includeobstaculos\cogumelo.h
+	"Obstaculo.h"
+
+1573674183 c:\users\vitor\documents\técdeprogdp\jogov8\includeobstaculos\tartaruga.h
+	"Obstaculo.h"
+
+1573355788 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenosfloresta\terrenofloresta3.h
+	"../Terreno.h"
+
+1573355772 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenosfloresta\terrenofloresta4.h
+	"../Terreno.h"
+
+1573739817 c:\users\vitor\documents\técdeprogdp\jogov8\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogov8\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1573757471 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1573741051 c:\users\vitor\documents\técdeprogdp\jogov8\includefases\floresta.h
+	"../includeFases/Fase.h"
+
+1573786524 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1573758628 c:\users\vitor\documents\técdeprogdp\jogov8\includefases\labirinto.h
+	"../includeFases/Fase.h"
+
+1573784354 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1573784354 c:\users\vitor\documents\técdeprogdp\jogov8\includefases\templo.h
+	"Fase.h"
+
+1573740940 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1574079616 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1574079923 c:\users\vitor\documents\técdeprogdp\jogov8\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeFases/Labirinto.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1573337847 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1571841852 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1571841852 c:\users\vitor\documents\técdeprogdp\jogov8\includefuncionamento\menu.h
+
+1573785602 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1573481740 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1573786180 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1573481740 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1573481740 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\minotauro.h
+	"Inimigo.h"
+
+1573785269 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1573785269 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1573481653 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\slimeverde.cpp
+	"../includeInimigos/SlimeVerde.h"
+
+1573481653 c:\users\vitor\documents\técdeprogdp\jogov8\includeinimigos\slimeverde.h
+	"Inimigo.h"
+
+1573757381 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1573752681 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1573172059 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1573337394 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573337368 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogov8\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1573673422 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcobstaculos\cogumelo.cpp
+	"../includeObstaculos/Cogumelo.h"
+
+1573649810 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1573483596 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573483243 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1573675570 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcobstaculos\tartaruga.cpp
+	"../includeObstaculos/Tartaruga.h"
+
+1573758238 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenosfloresta\terrenofloresta.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenosfloresta\terrenofloresta2.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenosfloresta\terrenofloresta3.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenosfloresta\terrenofloresta4.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov8\terreno.cpp
+	"Terreno.h"
+
+1573758906 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenoslabirinto\terrenolabirinto.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+
+1573757997 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenoslabirinto\terrenolabirinto.h
+	"../Terreno.h"
+
+1573781661 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenoslabirinto\terrenolabirinto2.h
+	"../Terreno.h"
+
+1573781709 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenoslabirinto\terrenolabirinto2.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+
+1573781839 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenoslabirinto\terrenolabirinto3.h
+	"../Terreno.h"
+
+1573781867 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenoslabirinto\terrenolabirinto3.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+
+1573782132 c:\users\vitor\documents\técdeprogdp\jogov8\includeterrenoslabirinto\terrenolabirinto4.h
+	"../Terreno.h"
+
+1573782132 source:c:\users\vitor\documents\técdeprogdp\jogov8\srcterrenoslabirinto\terrenolabirinto4.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+
+1573351860 source:c:\users\vitor\documents\técdeprogdp\jogov9\entidade.cpp
+	"Entidade.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogov9\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1575629923 source:c:\users\vitor\documents\técdeprogdp\jogov9\personagem.cpp
+	"Personagem.h"
+
+1575630159 c:\users\vitor\documents\técdeprogdp\jogov9\personagem.h
+	"Entidade.h"
+
+1574086800 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1574970116 c:\users\vitor\documents\técdeprogdp\jogov9\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeInimigos/Morcego.h"
+	"../includeInimigos/TorradaZombie.h"
+	"../includeObstaculos/Folha.h"
+	"../includeObstaculos/Fogo.h"
+	"../includeObstaculos/Cogumelo.h"
+	"../includeObstaculos/Tartaruga.h"
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+	"../includeFundos/Background.h"
+	"../includeInimigos/Minotauro.h"
+
+1575660939 c:\users\vitor\documents\técdeprogdp\jogov9\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+	"../includeFundos/Background.h"
+	<cmath>
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov9\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1573337098 c:\users\vitor\documents\técdeprogdp\jogov9\includejogadores\jogador.h
+	"../Personagem.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov9\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573483242 c:\users\vitor\documents\técdeprogdp\jogov9\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575629948 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov9\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov9\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov9\terreno.h
+	"Entidade.h"
+
+1575577495 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573355777 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenosfloresta\terrenofloresta.h
+	"../Terreno.h"
+
+1573355780 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenosfloresta\terrenofloresta2.h
+	"../Terreno.h"
+
+1575577649 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577630 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577629 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\morcego.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573739219 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\torradazombie.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573483340 c:\users\vitor\documents\técdeprogdp\jogov9\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573649192 c:\users\vitor\documents\técdeprogdp\jogov9\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573672711 c:\users\vitor\documents\técdeprogdp\jogov9\includeobstaculos\cogumelo.h
+	"Obstaculo.h"
+
+1573674183 c:\users\vitor\documents\técdeprogdp\jogov9\includeobstaculos\tartaruga.h
+	"Obstaculo.h"
+
+1573355788 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenosfloresta\terrenofloresta3.h
+	"../Terreno.h"
+
+1573355772 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenosfloresta\terrenofloresta4.h
+	"../Terreno.h"
+
+1573757997 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenoslabirinto\terrenolabirinto.h
+	"../Terreno.h"
+
+1573781661 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenoslabirinto\terrenolabirinto2.h
+	"../Terreno.h"
+
+1573781839 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenoslabirinto\terrenolabirinto3.h
+	"../Terreno.h"
+
+1573782132 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenoslabirinto\terrenolabirinto4.h
+	"../Terreno.h"
+
+1574812651 c:\users\vitor\documents\técdeprogdp\jogov9\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogov9\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575843206 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1574806573 c:\users\vitor\documents\técdeprogdp\jogov9\includefases\floresta.h
+	"../includeFases/Fase.h"
+
+1575738577 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1574806659 c:\users\vitor\documents\técdeprogdp\jogov9\includefases\labirinto.h
+	"../includeFases/Fase.h"
+
+1575670881 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1574806659 c:\users\vitor\documents\técdeprogdp\jogov9\includefases\templo.h
+	"Fase.h"
+
+1575670179 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1575843091 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1574815901 c:\users\vitor\documents\técdeprogdp\jogov9\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeFases/Labirinto.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+	"../includeFases/Templo.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1575738633 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1571841852 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1571841852 c:\users\vitor\documents\técdeprogdp\jogov9\includefuncionamento\menu.h
+
+1575577630 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1575629955 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1575577508 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1575631656 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1575631647 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\minotauro.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575578582 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1575578135 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1573481653 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\slimeverde.cpp
+	"../includeInimigos/SlimeVerde.h"
+
+1573481653 c:\users\vitor\documents\técdeprogdp\jogov9\includeinimigos\slimeverde.h
+	"Inimigo.h"
+
+1575555220 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1573752681 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1575630279 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1573337394 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573337368 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogov9\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1574813180 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcobstaculos\cogumelo.cpp
+	"../includeObstaculos/Cogumelo.h"
+
+1573649810 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1573483596 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573483243 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1573675570 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcobstaculos\tartaruga.cpp
+	"../includeObstaculos/Tartaruga.h"
+
+1573758238 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenosfloresta\terrenofloresta.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenosfloresta\terrenofloresta2.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenosfloresta\terrenofloresta3.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+
+1574126132 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenosfloresta\terrenofloresta4.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573758906 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenoslabirinto\terrenolabirinto.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+
+1573781709 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenoslabirinto\terrenolabirinto2.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+
+1573781867 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenoslabirinto\terrenolabirinto3.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+
+1573782132 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenoslabirinto\terrenolabirinto4.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov9\terreno.cpp
+	"Terreno.h"
+
+1574125489 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcfundos\background.cpp
+	"../includeFundos/Background.h"
+
+1574125489 c:\users\vitor\documents\técdeprogdp\jogov9\includefundos\background.h
+	"../Entidade.h"
+
+1574555877 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenostemplo\terrenotemplo.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+
+1574555276 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenostemplo\terrenotemplo.h
+	"../Terreno.h"
+
+1574556097 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenostemplo\terrenotemplo2.h
+	"../Terreno.h"
+
+1574556191 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenostemplo\terrenotemplo2.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+
+1574556366 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenostemplo\terrenotemplo3.h
+	"../Terreno.h"
+
+1574556344 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenostemplo\terrenotemplo3.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+
+1574556521 c:\users\vitor\documents\técdeprogdp\jogov9\includeterrenostemplo\terrenotemplo4.h
+	"../Terreno.h"
+
+1574556576 source:c:\users\vitor\documents\técdeprogdp\jogov9\srcterrenostemplo\terrenotemplo4.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+
+1573351860 source:c:\users\vitor\documents\técdeprogdp\jogov10\entidade.cpp
+	"Entidade.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogov10\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1575629923 source:c:\users\vitor\documents\técdeprogdp\jogov10\personagem.cpp
+	"Personagem.h"
+
+1575630159 c:\users\vitor\documents\técdeprogdp\jogov10\personagem.h
+	"Entidade.h"
+
+1574086800 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1574970116 c:\users\vitor\documents\técdeprogdp\jogov10\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeInimigos/Morcego.h"
+	"../includeInimigos/TorradaZombie.h"
+	"../includeObstaculos/Folha.h"
+	"../includeObstaculos/Fogo.h"
+	"../includeObstaculos/Cogumelo.h"
+	"../includeObstaculos/Tartaruga.h"
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+	"../includeFundos/Background.h"
+	"../includeInimigos/Minotauro.h"
+
+1575660939 c:\users\vitor\documents\técdeprogdp\jogov10\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+	"../includeFundos/Background.h"
+	<cmath>
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov10\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1573337098 c:\users\vitor\documents\técdeprogdp\jogov10\includejogadores\jogador.h
+	"../Personagem.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogov10\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573483242 c:\users\vitor\documents\técdeprogdp\jogov10\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575629948 c:\users\vitor\documents\técdeprogdp\jogov10\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov10\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogov10\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogov10\terreno.h
+	"Entidade.h"
+
+1574125489 c:\users\vitor\documents\técdeprogdp\jogov10\includefundos\background.h
+	"../Entidade.h"
+
+1575577495 c:\users\vitor\documents\técdeprogdp\jogov10\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573355777 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenosfloresta\terrenofloresta.h
+	"../Terreno.h"
+
+1573355780 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenosfloresta\terrenofloresta2.h
+	"../Terreno.h"
+
+1575577649 c:\users\vitor\documents\técdeprogdp\jogov10\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577630 c:\users\vitor\documents\técdeprogdp\jogov10\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577629 c:\users\vitor\documents\técdeprogdp\jogov10\includeinimigos\morcego.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573739219 c:\users\vitor\documents\técdeprogdp\jogov10\includeinimigos\torradazombie.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573483340 c:\users\vitor\documents\técdeprogdp\jogov10\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573649192 c:\users\vitor\documents\técdeprogdp\jogov10\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573672711 c:\users\vitor\documents\técdeprogdp\jogov10\includeobstaculos\cogumelo.h
+	"Obstaculo.h"
+
+1573674183 c:\users\vitor\documents\técdeprogdp\jogov10\includeobstaculos\tartaruga.h
+	"Obstaculo.h"
+
+1573355788 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenosfloresta\terrenofloresta3.h
+	"../Terreno.h"
+
+1573355772 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenosfloresta\terrenofloresta4.h
+	"../Terreno.h"
+
+1573757997 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenoslabirinto\terrenolabirinto.h
+	"../Terreno.h"
+
+1573781661 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenoslabirinto\terrenolabirinto2.h
+	"../Terreno.h"
+
+1573781839 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenoslabirinto\terrenolabirinto3.h
+	"../Terreno.h"
+
+1573782132 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenoslabirinto\terrenolabirinto4.h
+	"../Terreno.h"
+
+1574555276 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenostemplo\terrenotemplo.h
+	"../Terreno.h"
+
+1574556097 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenostemplo\terrenotemplo2.h
+	"../Terreno.h"
+
+1574556366 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenostemplo\terrenotemplo3.h
+	"../Terreno.h"
+
+1574556521 c:\users\vitor\documents\técdeprogdp\jogov10\includeterrenostemplo\terrenotemplo4.h
+	"../Terreno.h"
+
+1576068525 c:\users\vitor\documents\técdeprogdp\jogov10\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeFuncionamento/Menu.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogov10\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575631647 c:\users\vitor\documents\técdeprogdp\jogov10\includeinimigos\minotauro.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575843206 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1574806573 c:\users\vitor\documents\técdeprogdp\jogov10\includefases\floresta.h
+	"../includeFases/Fase.h"
+
+1575738577 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1574806659 c:\users\vitor\documents\técdeprogdp\jogov10\includefases\labirinto.h
+	"../includeFases/Fase.h"
+
+1575670881 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1574806659 c:\users\vitor\documents\técdeprogdp\jogov10\includefases\templo.h
+	"Fase.h"
+
+1576111516 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1576066062 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1576028759 c:\users\vitor\documents\técdeprogdp\jogov10\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeFases/Labirinto.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+	"../includeFases/Templo.h"
+	"../includeFuncionamento/Menu.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1575738633 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1574125489 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfundos\background.cpp
+	"../includeFundos/Background.h"
+
+1575577630 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1575629955 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1575577508 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1575631656 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1575578582 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1575578135 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1575555220 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1573752681 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1575630279 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1573337394 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573337368 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogov10\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1574813180 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcobstaculos\cogumelo.cpp
+	"../includeObstaculos/Cogumelo.h"
+
+1573649810 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1573483596 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573483243 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1573675570 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcobstaculos\tartaruga.cpp
+	"../includeObstaculos/Tartaruga.h"
+
+1573758238 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenosfloresta\terrenofloresta.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenosfloresta\terrenofloresta2.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenosfloresta\terrenofloresta3.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+
+1574126132 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenosfloresta\terrenofloresta4.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573758906 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenoslabirinto\terrenolabirinto.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+
+1573781709 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenoslabirinto\terrenolabirinto2.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+
+1573781867 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenoslabirinto\terrenolabirinto3.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+
+1573782132 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenoslabirinto\terrenolabirinto4.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+
+1574555877 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenostemplo\terrenotemplo.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+
+1574556191 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenostemplo\terrenotemplo2.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+
+1574556344 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenostemplo\terrenotemplo3.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+
+1574556576 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcterrenostemplo\terrenotemplo4.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogov10\terreno.cpp
+	"Terreno.h"
+
+1576068954 source:c:\users\vitor\documents\técdeprogdp\jogov10\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1576068942 c:\users\vitor\documents\técdeprogdp\jogov10\includefuncionamento\menu.h
+	"SFML/Graphics.hpp"
+
+1573351860 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\entidade.cpp
+	"Entidade.h"
+
+1573129659 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1575629923 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\personagem.cpp
+	"Personagem.h"
+
+1575630159 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\personagem.h
+	"Entidade.h"
+
+1574086800 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1574970116 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeInimigos/Morcego.h"
+	"../includeInimigos/TorradaZombie.h"
+	"../includeObstaculos/Folha.h"
+	"../includeObstaculos/Fogo.h"
+	"../includeObstaculos/Cogumelo.h"
+	"../includeObstaculos/Tartaruga.h"
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+	"../includeFundos/Background.h"
+	"../includeInimigos/Minotauro.h"
+
+1575660939 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+	"../includeFundos/Background.h"
+	<cmath>
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1573337098 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includejogadores\jogador.h
+	"../Personagem.h"
+
+1573172059 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573483242 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575629948 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1572617931 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1573353063 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\terreno.h
+	"Entidade.h"
+
+1574125489 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefundos\background.h
+	"../Entidade.h"
+
+1575577495 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573355777 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta.h
+	"../Terreno.h"
+
+1573355780 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta2.h
+	"../Terreno.h"
+
+1575577649 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577630 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577629 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeinimigos\morcego.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573739219 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeinimigos\torradazombie.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573483340 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573649192 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573672711 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\cogumelo.h
+	"Obstaculo.h"
+
+1573674183 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\tartaruga.h
+	"Obstaculo.h"
+
+1573355788 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta3.h
+	"../Terreno.h"
+
+1573355772 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta4.h
+	"../Terreno.h"
+
+1573757997 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto.h
+	"../Terreno.h"
+
+1573781661 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto2.h
+	"../Terreno.h"
+
+1573781839 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto3.h
+	"../Terreno.h"
+
+1573782132 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto4.h
+	"../Terreno.h"
+
+1574555276 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo.h
+	"../Terreno.h"
+
+1574556097 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo2.h
+	"../Terreno.h"
+
+1574556366 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo3.h
+	"../Terreno.h"
+
+1574556521 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo4.h
+	"../Terreno.h"
+
+1576068525 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeFuncionamento/Menu.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1572616465 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1576068942 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\menu.h
+	"SFML/Graphics.hpp"
+
+1575631647 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includeinimigos\minotauro.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575843206 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1574806573 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefases\floresta.h
+	"../includeFases/Fase.h"
+
+1575738577 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1574806659 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefases\labirinto.h
+	"../includeFases/Fase.h"
+
+1575670881 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1574806659 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefases\templo.h
+	"Fase.h"
+
+1576111516 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1576066062 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1576028759 c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeFases/Labirinto.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+	"../includeFases/Templo.h"
+	"../includeFuncionamento/Menu.h"
+
+1571841824 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1575738633 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1576068954 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1574125489 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcfundos\background.cpp
+	"../includeFundos/Background.h"
+
+1575577630 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1575629955 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1575577508 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1575631656 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1575578582 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1575578135 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1575555220 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1573752681 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1575630279 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1573337394 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573337368 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1574813180 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\cogumelo.cpp
+	"../includeObstaculos/Cogumelo.h"
+
+1573649810 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1573483596 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573483243 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1573675570 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\tartaruga.cpp
+	"../includeObstaculos/Tartaruga.h"
+
+1573758238 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta2.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+
+1573758262 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta3.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+
+1574126132 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta4.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573758906 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+
+1573781709 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto2.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+
+1573781867 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto3.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+
+1573782132 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto4.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+
+1574555877 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+
+1574556191 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo2.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+
+1574556344 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo3.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+
+1574556576 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo4.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+
+1573353063 source:c:\users\vitor\documents\técdeprogdp\jogovfinal1.1\jogov10\terreno.cpp
+	"Terreno.h"
+
+1573351860 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\entidade.cpp
+	"Entidade.h"
+
+1576671172 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\entidade.h
+	"SFML/Graphics.hpp"
+	<iostream>
+
+1576671361 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\personagem.cpp
+	"Personagem.h"
+
+1576671361 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\personagem.h
+	"Entidade.h"
+
+1574086800 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfases\fase.cpp
+	"../includeFases/Fase.h"
+
+1574970116 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefases\fase.h
+	<list>
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeInimigos/MechaBomba.h"
+	"../includeObstaculos/Obstaculo.h"
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+	"../includeInimigos/Sapo.h"
+	"../includeInimigos/Bomba.h"
+	"../includeInimigos/Morcego.h"
+	"../includeInimigos/TorradaZombie.h"
+	"../includeObstaculos/Folha.h"
+	"../includeObstaculos/Fogo.h"
+	"../includeObstaculos/Cogumelo.h"
+	"../includeObstaculos/Tartaruga.h"
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+	"../includeFundos/Background.h"
+	"../includeInimigos/Minotauro.h"
+
+1576670568 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\mecanismo.h
+	"../Entidade.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeObstaculos/Obstaculo.h"
+	<list>
+	"../includeInimigos/Inimigo.h"
+	"../includeListas/ListaEntidades.h"
+	"../Terreno.h"
+	"../includeFundos/Background.h"
+	<cmath>
+
+1573172059 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includejogadores\jogadorum.h
+	"Jogador.h"
+
+1573337098 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includejogadores\jogador.h
+	"../Personagem.h"
+
+1573172059 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includejogadores\jogadordois.h
+	"Jogador.h"
+
+1573483242 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\obstaculo.h
+	"../Personagem.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575629948 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeinimigos\inimigo.h
+	"../Personagem.h"
+
+1572617931 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includelistas\listaentidades.h
+	"../Entidade.h"
+	"../includeListas/Lista.h"
+	"SFML/Graphics.hpp"
+
+1576672512 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includelistas\lista.h
+	"../Entidade.h"
+	<iostream>
+
+1573353063 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\terreno.h
+	"Entidade.h"
+
+1574125489 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefundos\background.h
+	"../Entidade.h"
+
+1575577495 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeinimigos\mechabomba.h
+	"Inimigo.h"
+
+1573355777 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta.h
+	"../Terreno.h"
+
+1573355780 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta2.h
+	"../Terreno.h"
+
+1575577649 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeinimigos\sapo.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577630 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeinimigos\bomba.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1575577629 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeinimigos\morcego.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573739219 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeinimigos\torradazombie.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1573483340 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\folha.h
+	"Obstaculo.h"
+	"../Personagem.h"
+
+1573649192 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\fogo.h
+	"Obstaculo.h"
+
+1573672711 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\cogumelo.h
+	"Obstaculo.h"
+
+1573674183 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeobstaculos\tartaruga.h
+	"Obstaculo.h"
+
+1573355788 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta3.h
+	"../Terreno.h"
+
+1573355772 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenosfloresta\terrenofloresta4.h
+	"../Terreno.h"
+
+1573757997 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto.h
+	"../Terreno.h"
+
+1573781661 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto2.h
+	"../Terreno.h"
+
+1573781839 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto3.h
+	"../Terreno.h"
+
+1573782132 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenoslabirinto\terrenolabirinto4.h
+	"../Terreno.h"
+
+1574555276 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo.h
+	"../Terreno.h"
+
+1574556097 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo2.h
+	"../Terreno.h"
+
+1574556366 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo3.h
+	"../Terreno.h"
+
+1574556521 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeterrenostemplo\terrenotemplo4.h
+	"../Terreno.h"
+
+1576670169 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\gerenciador_grafico.h
+	"SFML/Graphics.hpp"
+	"../includeListas/ListaEntidades.h"
+	"../includeJogadores/Controle.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeFuncionamento/Menu.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1572616465 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includejogadores\controle.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+
+1576670246 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\menu.h
+	"SFML/Graphics.hpp"
+
+1575631647 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includeinimigos\minotauro.h
+	"Inimigo.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeJogadores/JogadorUm.h"
+
+1575843206 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfases\floresta.cpp
+	"../includeFases/Floresta.h"
+
+1574806573 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefases\floresta.h
+	"../includeFases/Fase.h"
+
+1575738577 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfases\labirinto.cpp
+	"../includeFases/Labirinto.h"
+
+1574806659 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefases\labirinto.h
+	"../includeFases/Fase.h"
+
+1575670881 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfases\templo.cpp
+	"../includeFases/Templo.h"
+
+1574806659 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefases\templo.h
+	"Fase.h"
+
+1576670138 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\gerenciador_grafico.cpp
+	"../includeFuncionamento/Gerenciador_Grafico.h"
+
+1576695426 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\jogo.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1576028759 c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\includefuncionamento\jogo.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	"Gerenciador_Grafico.h"
+	"../includeJogadores/JogadorUm.h"
+	"../includeJogadores/JogadorDois.h"
+	"../includeFases/Floresta.h"
+	"../includeFases/Labirinto.h"
+	"../includeListas/ListaEntidades.h"
+	"../includeFuncionamento/Mecanismo.h"
+	"../includeJogadores/Controle.h"
+	"../includeFases/Templo.h"
+	"../includeFuncionamento/Menu.h"
+
+1571841824 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\main.cpp
+	"../includeFuncionamento/Jogo.h"
+
+1576671047 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\mecanismo.cpp
+	"../includeFuncionamento/Mecanismo.h"
+
+1576068954 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfuncionamento\menu.cpp
+	"../includeFuncionamento/Menu.h"
+
+1574125489 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcfundos\background.cpp
+	"../includeFundos/Background.h"
+
+1575577630 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcinimigos\bomba.cpp
+	"../includeInimigos/Bomba.h"
+
+1575629955 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcinimigos\inimigo.cpp
+	"../includeInimigos/Inimigo.h"
+
+1575577508 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcinimigos\mechabomba.cpp
+	"../includeInimigos/MechaBomba.h"
+
+1575631656 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcinimigos\minotauro.cpp
+	"../includeInimigos/Minotauro.h"
+
+1575578582 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcinimigos\morcego.cpp
+	"../includeInimigos/Morcego.h"
+
+1575578135 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcinimigos\sapo.cpp
+	"../includeInimigos/Sapo.h"
+
+1575555220 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcinimigos\torradazombie.cpp
+	"../includeInimigos/TorradaZombie.h"
+
+1573752681 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcjogadores\controle.cpp
+	"../includeJogadores/Controle.h"
+
+1576695463 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcjogadores\jogador.cpp
+	"../includeJogadores/Jogador.h"
+
+1573337394 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcjogadores\jogadordois.cpp
+	"../includeJogadores/JogadorDois.h"
+
+1573337368 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcjogadores\jogadorum.cpp
+	"../includeJogadores/JogadorUm.h"
+
+1572617931 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srclistas\listaentidades.cpp
+	"../includeListas/ListaEntidades.h"
+
+1574813180 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\cogumelo.cpp
+	"../includeObstaculos/Cogumelo.h"
+
+1573649810 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\fogo.cpp
+	"../includeObstaculos/Fogo.h"
+
+1573483596 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\folha.cpp
+	"../includeObstaculos/Folha.h"
+
+1573483243 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\obstaculo.cpp
+	"../includeObstaculos/Obstaculo.h"
+
+1573675570 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcobstaculos\tartaruga.cpp
+	"../includeObstaculos/Tartaruga.h"
+
+1573758238 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta.h"
+
+1573758262 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta2.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta2.h"
+
+1573758262 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta3.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta3.h"
+
+1574126132 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenosfloresta\terrenofloresta4.cpp
+	"../includeTerrenosFloresta/TerrenoFloresta4.h"
+
+1573758906 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto.h"
+
+1573781709 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto2.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto2.h"
+
+1573781867 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto3.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto3.h"
+
+1573782132 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenoslabirinto\terrenolabirinto4.cpp
+	"../includeTerrenosLabirinto/TerrenoLabirinto4.h"
+
+1574555877 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo.h"
+
+1574556191 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo2.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo2.h"
+
+1574556344 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo3.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo3.h"
+
+1574556576 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\srcterrenostemplo\terrenotemplo4.cpp
+	"../includeTerrenosTemplo/TerrenoTemplo4.h"
+
+1573353063 source:c:\users\vitor\documents\utfpr-bsi\3ºperiodo\técnicasdeprogdp\jogovfinal1.1\jogov10\terreno.cpp
+	"Terreno.h"
+
